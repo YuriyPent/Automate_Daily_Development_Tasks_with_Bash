@@ -10,6 +10,6 @@
   "author": "Cameron Nokes",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.16.0"
+    "json-server": "^0.17.0"
   }
 }
